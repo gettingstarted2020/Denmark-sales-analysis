@@ -11,3 +11,5 @@ The dataset contains information about sales data in various manufacturing secto
 
 MS Excel: For data cleaning and transformation.
 MS Power BI: For data visualization and dashboarding.
+
+For further detailed report , visit my blog[Medium Blog](https://medium.com/@jaswanthisoni/denmarks-manufacturing-sector-sales-analysis-2007-2022-b02b9d9dd36d)
